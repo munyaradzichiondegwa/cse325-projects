@@ -1,0 +1,5 @@
+Sales Summary
+----------------------------
+ Total Sales: $0.00
+
+ Details:
